@@ -3,15 +3,15 @@
 /* цвет акцента 2196f3*/
 /* фон белый  */
 :root {
-  --primary-text-color: #757575;
-  --title-text-color: #212121;
-  --accent-color: #2196f3;
-  --primary-white-color: #ffffff;
-  --second-background: #f5f4fa;
-  --footer-background: #2f303a;
-  --border-color-projects: #eeeeee;
-  --advantages-background-img: #f5f4fa;
-  --social-links-svg-main-color: #afb1b8;
+  --primary-text-color: rgb(117, 117, 117);
+  --title-text-color: rgb(33, 33, 33);
+  --accent-color: rgb(33, 150, 243);
+  --primary-white-color: rgb(255, 255, 255);
+  --second-background: rgb(245, 244, 250);
+  --footer-background: rgb(47, 48, 58);
+  --border-color-projects: rgb(238, 238, 238);
+  --advantages-background-img: rgb(245, 244, 250);
+  --social-links-svg-main-color: rgb(175, 177, 184);
 }
 
 *,
